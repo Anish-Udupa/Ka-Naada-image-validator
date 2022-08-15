@@ -5,3 +5,6 @@ Install python and opencv-python module to run this program. Installation guide 
 
 ## Running the file:
 python3 ./scripts.py
+
+## To Contribute:
+To contribute to this project, fork this repository. Optionally, you can create a new branch. make your changes. Then create a pull request.
