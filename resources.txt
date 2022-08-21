@@ -1,0 +1,2 @@
+1. https://stackoverflow.com/questions/10851246/python-comparing-two-matrices
+2. https://stackoverflow.com/questions/11541154/checking-images-for-similarity-with-opencv
