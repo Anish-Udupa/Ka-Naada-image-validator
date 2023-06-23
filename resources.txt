@@ -1,2 +1,10 @@
 1. https://stackoverflow.com/questions/10851246/python-comparing-two-matrices
 2. https://stackoverflow.com/questions/11541154/checking-images-for-similarity-with-opencv
+
+https://stackoverflow.com/questions/28670461/read-an-image-with-opencv-and-display-it-with-tkinter
+
+https://stackoverflow.com/questions/41657449/tkinter-not-changing-image-on-button-press
+
+https://stackoverflow.com/questions/16366857/show-webcam-sequence-tkinter
+
+https://stackoverflow.com/questions/3949844/how-can-i-get-the-screen-size-in-tkinter
